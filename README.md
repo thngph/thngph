@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I'm Ngo Phuoc Thinh 👋
-Currently I'm a student at UIT(University of Information Technology- VNUHCM).
+Currently I'm a student at UIT (University of Information Technology- VNUHCM).
 
 
 ### My stats for the year
