@@ -4,7 +4,7 @@ I'm Ngo Phuoc Thinh,
 currently a student at UIT (University of Information Technology- VNUHCM).
 
 ### Connect with me
-<img align="center" alt="Gmail" width="25px" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg"/> ngophuocthinh28@gmail.com
+📧 ngophuocthinh28@gmail.com
 
 ### My stats for the year
 
