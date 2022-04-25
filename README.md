@@ -8,6 +8,10 @@ currently a student at UIT (University of Information Technology- VNUHCM).
 
 ### My stats for the year
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thngph&exclude_repo=zooTPJ&layout=compact)
+<div align="center">
+  
 ![Ngo Phuoc Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thngph&show_icons=true&count_private=true&hide=prs)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thngph&exclude_repo=zooTPJ&layout=compact)
+  
+</div>
