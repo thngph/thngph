@@ -3,6 +3,8 @@
 I'm Ngo Phuoc Thinh, 
 currently a student at UIT (University of Information Technology- VNUHCM).
 
+Visit my portfolio page @ [thngph.github.io](https://thngph.github.io)
+
 ### Connect with me
 📧 ngophuocthinh28@gmail.com
 
